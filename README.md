@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jmcxw
+- 👋 Hi, I’m @jmbizkit
 - 👀 I’m interested in K8's
 - 🌱 I’m currently learning K8's
 
